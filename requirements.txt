@@ -1,0 +1,12 @@
+streamlit>=1.28.0
+opencv-python-headless
+ultralytics
+pytesseract
+numpy
+pandas
+matplotlib
+plotly
+folium
+psutil
+pillow
+torch
